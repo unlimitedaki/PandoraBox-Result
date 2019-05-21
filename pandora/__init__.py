@@ -1,4 +1,6 @@
 from flask import Flask
+from flask import render_template
+import os
 
 
 def create_app():
@@ -12,13 +14,9 @@ def create_app():
         """
         return "Hello, world!"
 
-    # TODO: 捕获 404 错误，返回 404.html
     @app.errorhandler(404)
     def page_not_found(error):
-        """
-        以此项目中的404.html作为此Web Server工作时的404错误页
-        """
-        pass
+        return render_template("404.html"), 404
 
     # TODO: 完成接受 HTTP_URL 的 picture_reshape
     # TODO: 完成接受相对路径的 picture_reshape
@@ -62,3 +60,4 @@ def create_app():
         pass
 
     return app
+
