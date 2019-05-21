@@ -78,7 +78,7 @@ def create_app():
     # TODO: 爬取 996.icu Repo，获取企业名单
     @app.route('/996')
     def company_996():
-        re_expr = '<tr>\n<td.+>(.+)</td>\n<td.+>(.+)</a></td>\n<td.+>(.+)</td>\n<td.+>(.+)</td>\n.+\n</tr>'
+        re_expr = '<tr>\n<td.+>(.+)</td>\n<td.+>(.+)</td>\n<td.+>(.+)</td>\n<td.+>(.+)</td>\n.+\n</tr>'
         data = download_file('https://github.com/996icu/996.ICU/blob/master/blacklist/README.md')
         re_cmp = re.compile(re_expr)
         result = re_cmp.findall(data)
@@ -86,7 +86,7 @@ def create_app():
         for i in result:
             ret.append({
                 'city':i[0],
-                'company':i[1],
+                'company':i[1].split('</a>')[0],
                 'exposure_time':i[2],
                 'description':i[3]
             })
