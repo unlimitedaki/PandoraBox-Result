@@ -90,7 +90,7 @@ def create_app():
                 'exposure_time':i[2],
                 'description':i[3]
             })
-        return json.dumps(ret)
+        return json.dumps(ret, ensure_ascii=False)
     
     def download_file(url):
         response = urllib.request.urlopen(url)
