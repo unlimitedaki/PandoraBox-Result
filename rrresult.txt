@@ -1,0 +1,2100 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-3+HOqCwtQal5hOJQ+mdxiq5zmGOTjF6RhjDsPLxbKDYgGlLFeCwzoIanb7j5IiCuXKUqyC2q8FdkC4nmx2P2rA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-a2fba223d5af91496cac70d4ec3624df.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-gH+98Fpr/lalDdrpDSX3pwIw9kTCje5sanzdmIAawwZ9Ix/PGJ3RgwebMXEOO6MrTlvEUAIlTIhbupXCvOT8dw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-493f41895ef8324b38b0c218ee16e01d.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-ToYPvgHzI4ZZjTr09MR/O0FiK6r1vcaXfXi7yF0ir1LVdERr1jqIKCVNJh3066M95krXIBXU8qr5l2KJJnltNA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-f02fff83bc0e5f99f33bbeaab977075c.css" />
+    
+    
+    
+    
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>996.ICU/README.md at master · 996icu/996.ICU · GitHub</title>
+    <meta name="description" content="Repo for counting stars and contributing. Press F to pay respect to glorious developers. - 996icu/996.ICU">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/177736533/c6d4cd80-62d2-11e9-89c2-d2c97465e7e3" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="996icu/996.ICU" /><meta name="twitter:description" content="Repo for counting stars and contributing. Press F to pay respect to glorious developers. - 996icu/996.ICU" />
+    <meta property="og:image" content="https://repository-images.githubusercontent.com/177736533/c6d4cd80-62d2-11e9-89c2-d2c97465e7e3" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="996icu/996.ICU" /><meta property="og:url" content="https://github.com/996icu/996.ICU" /><meta property="og:description" content="Repo for counting stars and contributing. Press F to pay respect to glorious developers. - 996icu/996.ICU" />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  
+  <meta name="pjax-timeout" content="1000">
+  
+  <meta name="request-id" content="90FA:1886:1E3FD6C:2970EFB:5CE39FE4" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="90FA:1886:1E3FD6C:2970EFB:5CE39FE4" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="OTI3Mjc5NzUxOTliNTdkNWM2MmRkYWI3NzhiZWQ3NmY2ZmUxYTk4NGY5YTFkMmE2M2FlODJhODBkZWE0NGE2OHx7InJlbW90ZV9hZGRyZXNzIjoiMjE4LjQuMTg5LjIzIiwicmVxdWVzdF9pZCI6IjkwRkE6MTg4NjoxRTNGRDZDOjI5NzBFRkI6NUNFMzlGRTQiLCJ0aW1lc3RhbXAiOjE1NTg0MjE0NzcsImhvc3QiOiJnaXRodWIuY29tIn0=">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS">
+
+  <meta name="html-safe-nonce" content="86101274d6873045755311ed9b8eba62aa565f45">
+
+  <meta http-equiv="x-pjax-version" content="a49517628624fdfca9cc4efeaf9ed22f">
+  
+
+      <link href="https://github.com/996icu/996.ICU/commits/master.atom" rel="alternate" title="Recent Commits to 996.ICU:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/996icu/996.ICU git https://github.com/996icu/996.ICU.git">
+
+  <meta name="octolytics-dimension-user_id" content="48942249" /><meta name="octolytics-dimension-user_login" content="996icu" /><meta name="octolytics-dimension-repository_id" content="177736533" /><meta name="octolytics-dimension-repository_nwo" content="996icu/996.ICU" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="177736533" /><meta name="octolytics-dimension-repository_network_root_nwo" content="996icu/996.ICU" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/996icu/996.ICU/blob/master/blacklist/README.md" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+        <header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
+  <div class="container-lg d-lg-flex flex-items-center p-responsive">
+    <div class="d-flex flex-justify-between flex-items-center">
+        <a class="mr-4" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+        </a>
+
+          <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
+            
+              <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+    <a class="Header-link" href="/996icu">996icu</a>
+    /
+    <a class="Header-link" href="/996icu/996.ICU">996.ICU</a>
+
+
+          </div>
+
+        <div class="d-flex flex-items-center">
+            <a class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;90FA:1886:1E3FD6C:2970EFB:5CE39FE4&quot;,&quot;originating_url&quot;:&quot;https://github.com/996icu/996.ICU/blob/master/blacklist/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="55f6535acf9be865a74182514afcfef446f7194c8f2d59fa66ecdb2c355bb530" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up" href="/join?source=header-repo">
+              Sign&nbsp;up
+</a>
+          <button class="btn-link d-lg-none mt-1 js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+            <svg height="24" class="octicon octicon-three-bars text-white" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"/></svg>
+          </button>
+        </div>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-flex d-lg-none flex-justify-end border-bottom bg-gray-light p-3">
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        </button>
+      </div>
+
+        <nav class="mt-0 px-3 px-lg-0 mb-5 mb-lg-0" aria-label="Global">
+          <ul class="d-lg-flex list-style-none">
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Why GitHub?
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <a href="/features" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Features <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+                    <ul class="list-style-none f5 pb-3">
+                      <li class="edge-item-fix"><a href="/features/code-review/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code review">Code review</a></li>
+                      <li class="edge-item-fix"><a href="/features/project-management/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Project management">Project management</a></li>
+                      <li class="edge-item-fix"><a href="/features/integrations" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Integrations">Integrations</a></li>
+                      <li class="edge-item-fix"><a href="/features/actions" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Actions">Actions</a>
+                          <li class="edge-item-fix"><a href="/features/package-registry" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Package Registry">Package registry</a>
+                      <li class="edge-item-fix"><a href="/features#team-management" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Team management">Team management</a></li>
+                      <li class="edge-item-fix"><a href="/features#social-coding" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Social coding">Social coding</a></li>
+                      <li class="edge-item-fix"><a href="/features#documentation" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Documentation">Documentation</a></li>
+                      <li class="edge-item-fix"><a href="/features#code-hosting" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code hosting">Code hosting</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/customer-stories" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Customer stories">Customer stories <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="/security" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Security">Security <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Enterprise">Enterprise</a>
+              </li>
+
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Explore
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/explore" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Explore">Explore GitHub <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Learn &amp; contribute</h4>
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/topics" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Topics">Topics</a></li>
+                        <li class="edge-item-fix"><a href="/collections" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Collections">Collections</a></li>
+                      <li class="edge-item-fix"><a href="/trending" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Trending">Trending</a></li>
+                      <li class="edge-item-fix"><a href="https://lab.github.com/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Learning lab">Learning Lab</a></li>
+                      <li class="edge-item-fix"><a href="https://opensource.guide" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Open source guides">Open source guides</a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Connect with others</h4>
+                    <ul class="list-style-none mb-0">
+                      <li class="edge-item-fix"><a href="https://github.com/events" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Events">Events</a></li>
+                      <li class="edge-item-fix"><a href="https://github.community" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Community forum">Community forum</a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Education">GitHub Education</a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Marketplace">Marketplace</a>
+              </li>
+
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Pricing
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                       <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-4 mt-0 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <a href="/pricing" class="pb-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Pricing">Plans <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/pricing#feature-comparison" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Compare plans">Compare plans</a></li>
+                      <li class="edge-item-fix"><a href="https://enterprise.github.com/contact" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Contact Sales">Contact Sales</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/nonprofit" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Nonprofits">Nonprofit <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover"  data-ga-click="(Logged out) Header, go to Education">Education <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+          </ul>
+        </nav>
+
+      <div class="d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left">
+          <div class="d-lg-flex mb-3 mb-lg-0">
+            <div class="header-search flex-self-stretch flex-lg-self-auto mr-0 mr-lg-3 mb-3 mb-lg-0 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="177736533" data-scoped-search-url="/996icu/996.ICU/search" data-unscoped-search-url="/search" action="/996icu/996.ICU/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=EcD/oEJ3cEQZBgwa6+81tNszvIrmBwMib8HCb15sZNWbSxEvU0ufV3TlOIfuuEDyjx1grTCQOyqhv9zGkJJg4A=="
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <a class="HeaderMenu-link no-underline mr-3" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;90FA:1886:1E3FD6C:2970EFB:5CE39FE4&quot;,&quot;originating_url&quot;:&quot;https://github.com/996icu/996.ICU/blob/master/blacklist/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2c77d76568257482acf2ee4b3cc31a6743a15ceaae0683d361748f8629ee8133" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in" href="/login?return_to=%2F996icu%2F996.ICU%2Fblob%2Fmaster%2Fblacklist%2FREADME.md">
+          Sign&nbsp;in
+</a>          <a class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;90FA:1886:1E3FD6C:2970EFB:5CE39FE4&quot;,&quot;originating_url&quot;:&quot;https://github.com/996icu/996.ICU/blob/master/blacklist/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cb1c93fb94ee8a156c2a552ff4c24398dc555a429c4eabee79916b45a205cebc" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up" href="/join?source=header-repo">
+            Sign&nbsp;up
+</a>      </div>
+    </div>
+  </div>
+</header>
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+    <div id="js-flash-container">
+
+</div>
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main  >
+      
+
+
+  
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav pt-0 pt-lg-4 ">
+    <div class="repohead-details-container clearfix container-lg p-responsive d-none d-lg-block">
+
+      <ul class="pagehead-actions">
+
+
+
+
+  <li>
+    
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;90FA:1886:1E3FD6C:2970EFB:5CE39FE4&quot;,&quot;originating_url&quot;:&quot;https://github.com/996icu/996.ICU/blob/master/blacklist/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7a35af52cfc6d4b78236e08eca6d8f1334f6d261a818da8ee1712107ed9aa2f9" href="/login?return_to=%2F996icu%2F996.ICU">
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+    Watch
+</a>    <a class="social-count" href="/996icu/996.ICU/watchers"
+       aria-label="4791 users are watching this repository">
+      4,791
+    </a>
+
+  </li>
+
+  <li>
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:177736533,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;90FA:1886:1E3FD6C:2970EFB:5CE39FE4&quot;,&quot;originating_url&quot;:&quot;https://github.com/996icu/996.ICU/blob/master/blacklist/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7d33a28b02ba7f8efb1ccdd666833ded1475783c50fc1730b6b243b4f59bcd5f" href="/login?return_to=%2F996icu%2F996.ICU">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+    <a class="social-count js-social-count" href="/996icu/996.ICU/stargazers"
+      aria-label="244535 users starred this repository">
+      244,535
+    </a>
+
+  </li>
+
+  <li>
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:177736533,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;90FA:1886:1E3FD6C:2970EFB:5CE39FE4&quot;,&quot;originating_url&quot;:&quot;https://github.com/996icu/996.ICU/blob/master/blacklist/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d25518508a109d7052570e61c33895732cce48d5811d58a775162bbac8343151" href="/login?return_to=%2F996icu%2F996.ICU">
+        <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        Fork
+</a>
+    <a href="/996icu/996.ICU/network/members" class="social-count"
+       aria-label="21251 users forked this repository">
+      21,251
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+    <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=48942249" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu">996icu</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/996icu/996.ICU">996.ICU</a></strong>
+  
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container-lg p-responsive d-none d-lg-block"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /996icu/996.ICU" href="/996icu/996.ICU">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /996icu/996.ICU/pulls" href="/996icu/996.ICU/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">3</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+
+
+
+
+
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people alerts /996icu/996.ICU/pulse" href="/996icu/996.ICU/pulse">
+      <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+      Insights
+</a>
+
+</nav>
+
+  <div class="reponav-wrapper reponav-small d-lg-none">
+  <nav class="reponav js-reponav text-center no-wrap"
+       itemscope
+       itemtype="http://schema.org/BreadcrumbList">
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /996icu/996.ICU" href="/996icu/996.ICU">
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </span>
+
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /996icu/996.ICU/pulls" href="/996icu/996.ICU/pulls">
+        <span itemprop="name">Pull requests</span>
+        <span class="Counter">3</span>
+        <meta itemprop="position" content="3">
+</a>    </span>
+
+
+
+
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /996icu/996.ICU/pulse" href="/996icu/996.ICU/pulse">
+        Pulse
+</a>
+
+  </nav>
+</div>
+
+
+  </div>
+<div class="container-lg new-discussion-timeline experiment-repo-nav  p-responsive">
+  <div class="repository-content ">
+
+    
+    
+
+
+
+  
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/996icu/996.ICU/blob/15972a5906bf31671342f3c7a538cd248184c885/blacklist/README.md">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v21:aa87ad31051a9ec542aa393660b63005 -->
+          <div class="signup-prompt-bg rounded-1">
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+        <div class="position-relative">
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="6u7hAwoZvg3SYK/90qHcDLyayklHjut2sASxeH0+ZnmVDj9WLxm2H8GCKz/xz9ASsqKyLYoC6hMMawHWCY21nw==" />
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+              Dismiss
+            </button>
+</form>          <h3 class="pt-2">Join GitHub today</h3>
+          <p class="col-6 mx-auto">GitHub is home to over 36 million developers working together to host and review code, manage projects, and build software together.</p>
+          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;90FA:1886:1E3FD6C:2970EFB:5CE39FE4&quot;,&quot;originating_url&quot;:&quot;https://github.com/996icu/996.ICU/blob/master/blacklist/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="01536791911d6589ed959d84d871341fed7219ef74e9f993c99c8307f6dabd17" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show">Sign up</a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="d-flex flex-items-start mb-3 flex-column flex-md-row">
+      <span class="d-flex flex-justify-between width-full width-md-auto">
+        
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
+  <summary class="btn btn-sm select-menu-button css-truncate"
+           data-hotkey="w"
+           
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target">master</span>
+  </summary>
+
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/996icu/996.ICU/ref-list/master/blacklist/README.md?source_action=show&amp;source_controller=blob" preload>
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+    </include-fragment>
+  </details-menu>
+</details>
+
+        <div class="BtnGroup flex-shrink-0 d-md-none">
+          <a href="/996icu/996.ICU/find/master"
+                class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+                data-pjax
+                data-hotkey="t">
+            Find file
+          </a>
+          <clipboard-copy value="blacklist/README.md" class="btn btn-sm BtnGroup-item">
+            Copy path
+          </clipboard-copy>
+        </div>
+      </span>
+      <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/996icu/996.ICU"><span>996.ICU</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/996icu/996.ICU/tree/master/blacklist"><span>blacklist</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      </h2>
+
+      <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
+        <a href="/996icu/996.ICU/find/master"
+              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+              data-pjax
+              data-hotkey="t">
+          Find file
+        </a>
+        <clipboard-copy value="blacklist/README.md" class="btn btn-sm BtnGroup-item">
+          Copy path
+        </clipboard-copy>
+      </div>
+    </div>
+
+
+
+    
+  <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
+      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
+        <span class="pr-md-4 f6">
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=22644509" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pilym"><img class="avatar" src="https://avatars0.githubusercontent.com/u/22644509?s=40&amp;v=4" width="20" height="20" alt="@pilym" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=22644509" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pilym">pilym</a>
+            <span class="lh-default v-align-middle">
+              <a data-pjax="true" title="增加松鼠拼拼，车置宝，深圳市艾森智能技术有限公司，杭州数澜科技有限公司，和优学派系列公司" class="link-gray" href="/996icu/996.ICU/commit/892dfb6b515cf9d7f108a7e7d984a0cb49ec952e">增加松鼠拼拼，车置宝，深圳市艾森智能技术有限公司，杭州数澜科技有限公司，和优学派系列公司</a>
+            </span>
+        </span>
+        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
+          <a class="pr-2 text-mono link-gray" href="/996icu/996.ICU/commit/892dfb6b515cf9d7f108a7e7d984a0cb49ec952e" data-pjax>892dfb6</a>
+          <relative-time datetime="2019-05-14T22:46:16Z">May 15, 2019</relative-time>
+        </span>
+      </div>
+
+    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
+      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+        <summary class="btn-link" aria-haspopup="dialog">
+          <span><strong>74</strong> contributors</span>
+        </summary>
+        <details-dialog
+          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+          aria-label="Users who have contributed to this file"
+          src="/996icu/996.ICU/contributors/master/blacklist/README.md/list" preload>
+          <div class="Box-header">
+            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+            </button>
+            <h3 class="Box-title">
+              Users who have contributed to this file
+            </h3>
+          </div>
+          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+        </details-dialog>
+      </details>
+        <span class="">
+    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=48942249" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=996icu">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/48942249?s=40&amp;v=4" width="20" height="20" alt="@996icu" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49220384" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=CPdogson">
+      <img class="avatar mr-1" src="https://avatars3.githubusercontent.com/u/49220384?s=40&amp;v=4" width="20" height="20" alt="@CPdogson" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=24283973" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=nlchjian">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/24283973?s=40&amp;v=4" width="20" height="20" alt="@nlchjian" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49299439" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=AtagoAoi">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/49299439?s=40&amp;v=4" width="20" height="20" alt="@AtagoAoi" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=22644509" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=pilym">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/22644509?s=40&amp;v=4" width="20" height="20" alt="@pilym" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49627861" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=gulaug">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/49627861?s=40&amp;v=4" width="20" height="20" alt="@gulaug" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49547619" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=mumalisa">
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/49547619?s=40&amp;v=4" width="20" height="20" alt="@mumalisa" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49502488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=fuckcomtop">
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/49502488?s=40&amp;v=4" width="20" height="20" alt="@fuckcomtop" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=18367114" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=sinomoe">
+      <img class="avatar mr-1" src="https://avatars3.githubusercontent.com/u/18367114?s=40&amp;v=4" width="20" height="20" alt="@sinomoe" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14094541" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=jingshaoqi">
+      <img class="avatar mr-1" src="https://avatars3.githubusercontent.com/u/14094541?s=40&amp;v=4" width="20" height="20" alt="@jingshaoqi" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=17290654" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=JuiceZZ">
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/17290654?s=40&amp;v=4" width="20" height="20" alt="@JuiceZZ" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=19971604" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=geehero">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/19971604?s=40&amp;v=4" width="20" height="20" alt="@geehero" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=16450201" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=Lemon080910">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/16450201?s=40&amp;v=4" width="20" height="20" alt="@Lemon080910" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14145071" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=happymili">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/14145071?s=40&amp;v=4" width="20" height="20" alt="@happymili" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1862677" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=tidus5">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/1862677?s=40&amp;v=4" width="20" height="20" alt="@tidus5" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=29246805" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=stupdit1t">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/29246805?s=40&amp;v=4" width="20" height="20" alt="@stupdit1t" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3455675" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=iBreaker">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/3455675?s=40&amp;v=4" width="20" height="20" alt="@iBreaker" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49521322" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=badgoodbg">
+      <img class="avatar mr-1" src="https://avatars3.githubusercontent.com/u/49521322?s=40&amp;v=4" width="20" height="20" alt="@badgoodbg" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=13374748" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=qqhahaboy">
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/13374748?s=40&amp;v=4" width="20" height="20" alt="@qqhahaboy" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6316034" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=WanderClouds">
+      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/6316034?s=40&amp;v=4" width="20" height="20" alt="@WanderClouds" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=23251803" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=alexypf">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/23251803?s=40&amp;v=4" width="20" height="20" alt="@alexypf" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=18690868" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=Ongcoi">
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/18690868?s=40&amp;v=4" width="20" height="20" alt="@Ongcoi" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=9483733" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=cuiliqing">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/9483733?s=40&amp;v=4" width="20" height="20" alt="@cuiliqing" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49876779" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=xiaopeng996icu">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/49876779?s=40&amp;v=4" width="20" height="20" alt="@xiaopeng996icu" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49676218" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=LiwangEric">
+      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/49676218?s=40&amp;v=4" width="20" height="20" alt="@LiwangEric" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=49585000" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/996icu/996.ICU/commits/master/blacklist/README.md?author=hongseshenying">
+      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/49585000?s=40&amp;v=4" width="20" height="20" alt="@hongseshenying" /> 
+</a>
+    <button type="button" class="btn-link lh-default" data-toggle-for="blob_contributors_box">and others</button>
+</span>
+
+    </div>
+  </div>
+
+
+
+
+
+
+    <div class="Box mt-3 position-relative">
+      
+<div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
+
+  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+      205 lines (196 sloc)
+      <span class="file-info-divider"></span>
+    34.9 KB
+  </div>
+
+  <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/996icu/996.ICU/raw/master/blacklist/README.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/996icu/996.ICU/blame/master/blacklist/README.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/996icu/996.ICU/commits/master/blacklist/README.md">History</a>
+    </div>
+
+
+    <div>
+
+          <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+            aria-label="You must be signed in to make or propose changes">
+            <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+          </button>
+          <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+            aria-label="You must be signed in to make or propose changes">
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+    </div>
+  </div>
+</div>
+
+      
+  <div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
+    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><p><strong>请注意：维护本列表的目的在于为《中华人民共和国劳动法》的执行提供参考依据。</strong>
+违法加班制度是指违反相关法律法规及劳动合同，未经与工会和劳动者协商便强制加班加点<sup>1</sup>，或加班加点超出法定时限（每日三小时或每月三十六小时）<sup>2</sup>，或未足额支付加班加点工资报酬（不低于工资的百分之一百五十）<sup>3</sup>的非法用工制度。</p>
+<ol>
+<li><a href="http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm" rel="nofollow">《中华人民共和国劳动法》</a>第四章第四十一条</li>
+<li><a href="http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm" rel="nofollow">《中华人民共和国劳动法》</a>第四章第四十三条</li>
+<li><a href="http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm" rel="nofollow">《中华人民共和国劳动法》</a>第四章第四十四条</li>
+<li><a href="http://www.npc.gov.cn/npc/xinwen/2011-02/25/content_1625679.htm" rel="nofollow">《中华人民共和国刑法修正案（八）》</a>第四十一条</li>
+</ol>
+<h2><a id="user-content-贡献指南" class="anchor" aria-hidden="true" href="#贡献指南"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>贡献指南</h2>
+<p>更新此文件时，请提供必要的描述内容及确切证据。
+证据可包括下列两种类型：</p>
+<ul>
+<li>外部证据（包括但不限于官方公告、新闻链接、招聘网站官方描述等）
+<ul>
+<li>可直接粘贴链接</li>
+</ul>
+</li>
+<li>内部证据（包括但不限于内部论坛、内部邮件、打卡记录、调休记录等）
+<ul>
+<li>可粘贴截图链接</li>
+<li>如果您不想在证据内容处填写截图链接，可在PR描述中附带截图</li>
+</ul>
+</li>
+</ul>
+<p>截图请<strong>抹掉一切个人信息</strong>，包括但不限于名字，内部ID，电话号码，邮箱地址等。为防止某些公司<a href="https://www.zhihu.com/question/50735753/answer/122593277" rel="nofollow">使用数字盲水印对截屏进行追踪</a>，建议使用屏摄的方法采集图片证据。如果截图需要放在GitHub，请放在<code>blacklist/img</code>文件夹里。</p>
+<p>相关证据链接将被自动提交到 <a href="https://web.archive.org" rel="nofollow">Internet Archive</a> 进行归档。如证据原始链接失效，可以去 <a href="https://web.archive.org" rel="nofollow">Internet Archive</a> 找回。</p>
+<h2><a id="user-content-声明与注意事项" class="anchor" aria-hidden="true" href="#声明与注意事项"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>声明与注意事项</h2>
+<ul>
+<li>本仓库只在筛选出符合上述要求的PR后，在本页面作出展示。</li>
+<li>信息由众人贡献，请自行甄别真伪，并注意消息来源的时效性及公信力。</li>
+<li>同公司不同部门规定有可能不同，公司在名单中不代表该公司全部岗位存在该情况，仅供参考。</li>
+<li>如果您认为名单中的某公司不应属此列或存在被抹黑的情况，请提PR说明情况，核实后将会更正或删除。</li>
+</ul>
+<h2><a id="user-content-已取消996名单列表" class="anchor" aria-hidden="true" href="#已取消996名单列表"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>已取消996名单列表</h2>
+<table>
+<thead>
+<tr>
+<th align="center">所在城市</th>
+<th align="center">公司名字</th>
+<th align="center">曝光/施行时间</th>
+<th align="center">制度描述</th>
+<th align="center">证据内容</th>
+<th align="center">分支sha256</th>
+<th align="center">取消证据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.zhan.com/" rel="nofollow">小站教育</a></td>
+<td align="center"></td>
+<td align="center">10106</td>
+<td align="center"><a href="https://www.zhihu.com/question/27635270" rel="nofollow">谁在小站教育工作过? 小站教育的课程顾问怎么样？</a></td>
+<td align="center"></td>
+<td align="center">暂时没有查出是哪个分支取消的，但是我记忆力肯定是上过黑名单，请知道的大佬提交证据</td>
+</tr>
+<tr>
+<td align="center">苏州</td>
+<td align="center">苏州科技城</td>
+<td align="center"></td>
+<td align="center">996</td>
+<td align="center"></td>
+<td align="center">5f0f3dd22b8fd0de1897a62206ca6df505af072f</td>
+<td align="center">智联上明确写了肯定是996，但是被这个分支取消了，不确定是故意还是无意</td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">首约汽车</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">bde8b2d8c89418b5553b199d91ba9394ccacc867</td>
+<td align="center">被无故取消，没有提交证据，希望提交证据</td>
+</tr>
+<tr>
+<td align="center">六安</td>
+<td align="center">六安人论坛</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">c18807f14ade6b12fc1042077a77ca9bd8de02d3</td>
+<td align="center">没有任何证据</td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">必胜课</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">a53f1aa6747a6fe4e27cb3475551875aa17bf11d</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E5%BF%85%E8%83%9C%E8%AF%BE%E5%8F%96%E6%B6%88%E8%AF%81%E6%8D%AE01.png">盖章文件</a></td>
+</tr>
+</tbody>
+</table>
+<h2><a id="user-content-名单列表" class="anchor" aria-hidden="true" href="#名单列表"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>名单列表</h2>
+<table>
+<thead>
+<tr>
+<th align="center">所在城市</th>
+<th align="center">公司名字</th>
+<th align="center">曝光/施行时间</th>
+<th align="center">制度描述</th>
+<th align="center">证据内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.pinduoduo.com//" rel="nofollow">拼多多</a></td>
+<td align="center">2019年2月</td>
+<td align="center">11116、两班倒</td>
+<td align="center"><a href="http://www.taobao92.com/thread-1313-1-1.html" rel="nofollow">996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="http://www.shengheyouxi.com" rel="nofollow">盛赫游戏</a></td>
+<td align="center">2019年3月</td>
+<td align="center">大小周</td>
+<td align="center"><a href="https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9" rel="nofollow">boss直聘</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://m.eyee.com/" rel="nofollow">砸立</a></td>
+<td align="center">2019年1月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.youzu.com/" rel="nofollow">游族网络</a></td>
+<td align="center">2018年3月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.zhihu.com/question/22411680?sort=created" rel="nofollow">你为什么从游族离职?-知乎</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="http://hoodinn.hgame.com/default/index" rel="nofollow">蝴蝶互动</a></td>
+<td align="center">2019年2月</td>
+<td align="center">966</td>
+<td align="center"><a href="https://www.zhihu.com/question/40858342/answer/616999472" rel="nofollow">知乎：如何评价蝴蝶互动？</a> / <a href="/996icu/996.ICU/blob/master/blacklist/img/%E8%9D%B4%E8%9D%B6%E4%BA%92%E5%8A%A8-%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95.png">聊天记录截图</a> / (<a href="/996icu/996.ICU/blob/master/blacklist/img/%E8%9D%B4%E8%9D%B6%E4%BA%92%E5%8A%A8-%E6%8A%A5%E5%91%8A%E5%A7%94%E6%89%98%E6%88%AA%E5%9B%BE-0.jpg">所受委&gt;托资料-0</a>  <a href="/996icu/996.ICU/blob/master/blacklist/img/%E8%9D%B4%E8%9D%B6%E4%BA%92%E5%8A%A8-%E6%8A%A5%E5%91%8A%E5%A7%94%E6%89%98%E6%88%AA%E5%9B%BE-1.jpg">所受委托资料-1</a>)</td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.united-imaging.com/cn/home/" rel="nofollow">上海联影医疗科技有限公司</a></td>
+<td align="center">2019年4月4日</td>
+<td align="center">996、无加班费</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6045694.html" rel="nofollow">看准网</a>、 <a href="https://bbs.csdn.net/topics/380214818" rel="nofollow">CSDN</a>、<a href="https://www.kanzhun.com/pl6212987.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="http://www.yitutech.com/" rel="nofollow">依图网络科技有限公司</a></td>
+<td align="center">2019年4月5日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.zhihu.com/question/300132949/answer/606529193" rel="nofollow">知乎</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.ele.me/" rel="nofollow">饿了么</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996 or 997</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.deppon.com/" rel="nofollow">德邦物流</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr16378tl56.html?ka=review-label9" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.cibfintech.com">兴业数字金融服务</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr6355543tl526.html?ka=review-label4" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.xiaohongshu.com/" rel="nofollow">小红书</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">1095</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1950189.html?ka=com-blocker1-review#co_tab" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.yitutech.com/" rel="nofollow">依图科技</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1669492tl526.html?ka=review-label13" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.yimidida.com" rel="nofollow">上海壹米滴答供应链管理有限公司</a></td>
+<td align="center">2019年4月8日</td>
+<td align="center">大小周</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/yimidida.jpeg">壹米滴答日历</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.kwm.com/zh/cn" rel="nofollow">金杜律师事务所</a></td>
+<td align="center">2019年4月8日</td>
+<td align="center">早10晚6但基本9点以后下班，周末给任务，请假给任务</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr14366.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.yupaopao.com//" rel="nofollow">上海鱼泡泡信息科技有限公司</a></td>
+<td align="center">2018年12月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk" rel="nofollow">脉脉</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.zhangmen.com/" rel="nofollow">掌门一对一教育有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">大小周</td>
+<td align="center"><a href="https://www.kanzhun.com/pl7018849.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://www.qiniu.com/" rel="nofollow">七牛云</a></td>
+<td align="center">2018年11月</td>
+<td align="center">995、裁员</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E4%B8%83%E7%89%9B%E4%BA%91995.jpg">Boss直聘</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/%E4%B8%83%E7%89%9B%E4%BA%91%E8%A3%81%E5%91%981.jpg">脉脉</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/%E4%B8%83%E7%89%9B%E4%BA%91%E8%A3%81%E5%91%982.jpg">脉脉</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/%E4%B8%83%E7%89%9B%E4%BA%91%E8%A3%81%E5%91%983.jpg">脉脉</a>、<a href="https://www.kanzhun.com/pl7147841.html?ka=comreview-result1" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">上海</td>
+<td align="center"><a href="https://linjia.me" rel="nofollow">邻趣网络有限公司</a></td>
+<td align="center">2018年9月</td>
+<td align="center">995</td>
+<td align="center">七点左右下班要在群里报备 <a href="/996icu/996.ICU/blob/master/blacklist/img/%E9%82%BB%E8%B6%A3%E5%B7%A5%E4%BD%9C%E7%BE%A4%E6%88%AA%E5%9B%BE.jpeg">工作群截图1</a> <a href="/996icu/996.ICU/blob/master/blacklist/img/%E9%82%BB%E8%B6%A3%E5%B7%A5%E4%BD%9C%E7%BE%A4%E6%88%AA%E5%9B%BE2.jpeg">工作群截图2</a> <a href="/996icu/996.ICU/blob/master/blacklist/img/%E9%82%BB%E8%B6%A3%E5%B7%A5%E4%BD%9C%E7%BE%A4%E6%88%AA%E5%9B%BE3.jpeg">工作群截图3</a></td>
+</tr>
+<tr>
+<td align="center">东莞</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.gdbbk.com">步步高</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">8106 ！</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">佛山</td>
+<td align="center"><a href="https://www.midea.cn/" rel="nofollow">美的集团</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996大小周</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.jd.com" rel="nofollow">京东</a></td>
+<td align="center">2019年3月</td>
+<td align="center">995</td>
+<td align="center"><a href="http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html" rel="nofollow">京东回应995工作制：不会强制要求 但要全情投入</a><br><a href="https://i.loli.net/2019/04/02/5ca2e8727f213.jpg" rel="nofollow">刘强东内部邮件称要淘汰或协商解决掉“三种人”</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.58.com" rel="nofollow">58同城</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml" rel="nofollow">58同城实行全员996工作制 被指意图逼员工主动辞职</a><br><a href="https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.tujia.com" rel="nofollow">途家网</a></td>
+<td align="center">2017年12月</td>
+<td align="center">897</td>
+<td align="center"><a href="https://www.tujia.xyz/" rel="nofollow">暴力裁员、996加班、发感冒冲剂、搭睡觉帐篷、诉讼材料</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.missfresh.cn/" rel="nofollow">每日优鲜</a></td>
+<td align="center">-----</td>
+<td align="center">007/996</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%AF%8F%E6%97%A5%E4%BC%98%E9%B2%9C%E9%BC%93%E5%90%B9996.png">app更新记录,大肆鼓吹996</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://bytedance.com" rel="nofollow">字节跳动</a></td>
+<td align="center">2017年7月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5622411tl56.html" rel="nofollow">看准网1</a>、<a href="https://www.kanzhun.com/pl6583181.html" rel="nofollow">看准网2</a>、<a href="https://www.sohu.com/a/256795805_231667" rel="nofollow">搜狐</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.yonyou.com/" rel="nofollow">用友</a></td>
+<td align="center">2018年12月</td>
+<td align="center">997</td>
+<td align="center"><a href="https://www.zhihu.com/question/26683235" rel="nofollow">在用友工作是怎样一番体验？ - 知乎</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.sensorsdata.cn/" rel="nofollow">神策数据</a></td>
+<td align="center">2019年3月</td>
+<td align="center">大小周</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6409927.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.chinasofti.com/" rel="nofollow">中软国际</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://jobs.zhaopin.com/CC508620126J00303154805.htm" rel="nofollow">智联招聘</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.camelotchina.com/" rel="nofollow">柯莱特</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://jobs.zhaopin.com/CC120179637J00117070515.htm" rel="nofollow">智联招聘</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.git.com.cn/" rel="nofollow">高伟达</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://jobs.zhaopin.com/CC120702341J00114014810.htm" rel="nofollow">智联招聘</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwdr2zNtf0Zpjhxx2gQd9FZQmd&amp;from=ps" rel="nofollow">霁云科技</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.zhipin.com/gongsi/2c08264377f4a5c61nx739i-Fw~~.html?ka=search_rcmd_company_2c08264377f4a5c61nx739i-Fw~~" rel="nofollow">boss直聘</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.keyware.com.cn/" rel="nofollow">北京关键科技股份有限公司</a></td>
+<td align="center">2019年3月</td>
+<td align="center">986</td>
+<td align="center">986且没加班费不能换休<a href="/996icu/996.ICU/blob/master/blacklist/img/keyware1.jpg">图片-1</a><br><a href="/996icu/996.ICU/blob/master/blacklist/img/keyware2.jpg">图片-2</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.01zhuanche.com/" rel="nofollow">首约科技（北京）有限公司</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center">工作日无加班费无调休、加班时长作为KPI评估标准</td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.zhipin.com/" rel="nofollow">Boss直聘(北京华品博睿网络技术有限公司)</a></td>
+<td align="center">2019年4月2日</td>
+<td align="center">大小周</td>
+<td align="center"><a href="https://upload.cc/i1/2019/04/03/1wfI7o.png" rel="nofollow">OFFER邮件(已处理图片和关键字过滤)</a> + 亲历</td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.uegame.com/" rel="nofollow">北京游奕互动软件有限公司</a></td>
+<td align="center">2016年3月</td>
+<td align="center">986</td>
+<td align="center">加班不给钱的那种，用这个来卡大家项目上线分红<a href="/996icu/996.ICU/blob/master/blacklist/img/yyhd.png">打卡记录</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.mi.com" rel="nofollow">小米</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">10106</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.asiainfo.com" rel="nofollow">亚信(AsiaInfo)</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.liepin.com/" rel="nofollow">猎聘网</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.baidu.com/" rel="nofollow">百度</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.bianlifeng.com/" rel="nofollow">便利蜂</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">10105</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.vipkid.com.cn/" rel="nofollow">VIPKID</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">10106</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.tianyancha.com/" rel="nofollow">天眼查</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5681112tl526.html?ka=review-label4" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.qunar.com/" rel="nofollow">去哪儿网</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">10106</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr61692tl56.html?ka=review-label13" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.yunniao.cn/" rel="nofollow">云鸟科技</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr2477689tl56.html?ka=review-label3" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.icourt.cc">iCourt</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996 or 10116</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5731719tl526.html?ka=review-label5" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.chujian.com">初见科技</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">995</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr2031621.html?ka=com1-review" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.zybang.com/" rel="nofollow">作业帮</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">大小周</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6288762.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.ishumei.com/" rel="nofollow">数美科技</a></td>
+<td align="center">2019年4月8日</td>
+<td align="center">大小周，加班</td>
+<td align="center"><a href="https://www.zhihu.com/question/290696102" rel="nofollow">知乎</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.kfyao.com/" rel="nofollow">快方送药</a></td>
+<td align="center">已经施行一段时间了</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/pl5675303.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.kuaipeilian.com" rel="nofollow">快陪练</a></td>
+<td align="center">2019年4月8日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://pic.superbed.cn/item/5cad617f3a213b0417f7cc2a" rel="nofollow">发言为其招聘经理</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.dhcc.com.cn/" rel="nofollow">东华软件股份公司</a></td>
+<td align="center">2018年2月</td>
+<td align="center">996</td>
+<td align="center">亲历 <a href="https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1" rel="nofollow">百度口碑</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.trustlife.com/" rel="nofollow">信美人寿相互保险社</a></td>
+<td align="center">2019年</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review" rel="nofollow">看准网</a>、<a href="https://www.kanzhun.com/gsr6603074.html?ka=com1-review" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.cbct.cn/" rel="nofollow">北京中广创思文化传播有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996/9107</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B9%BF%E5%88%9B%E6%80%9D9107%E9%92%89%E9%92%89%E6%88%AA%E5%9B%BE.jpg">图片</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://beijing.bitauto.com/" rel="nofollow">易车网</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%98%93%E8%BD%A6996.png">办公软件截图</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%98%93%E8%BD%A6%E8%84%89%E8%84%89.png">脉脉</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://linkface.cn/" rel="nofollow">北京今始科技有限公司</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996、恶意裁员</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/linkface-996.jpg">邮件截图</a>、<a href="https://www.zhihu.com/question/300467880/answer/532121441" rel="nofollow">知乎</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.sumavision.com/" rel="nofollow">北京数码视讯科技股份有限公司</a></td>
+<td align="center">2011年4月</td>
+<td align="center">996，大小周</td>
+<td align="center">亲历 <a href="https://www.kanzhun.com/pl474513.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.soundai.com/" rel="nofollow">北京声智科技有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1" rel="nofollow">看准网：包括 HR 全员996</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="https://www.danke.com/" rel="nofollow">蛋壳公寓</a></td>
+<td align="center">2018年7月</td>
+<td align="center">10106/10107</td>
+<td align="center"><a href="https://www.kanzhun.com/gsm5710300.html?ka=com-blocker1-interview#co_tab%EF%BC%89" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.mastertimes.net/" rel="nofollow">北京掌握时代科技股份有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">南京</td>
+<td align="center"><a href="http://www.suning.com" rel="nofollow">苏宁</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.zhihu.com/question/314152843/answer/613149536" rel="nofollow">如何评价今年苏宁正式实行996工作制?</a></td>
+</tr>
+<tr>
+<td align="center">厦门</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.4399.com">4399游戏</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">10106</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">嘉兴/广州</td>
+<td align="center"><a href="http://www.chinalancoo.com" rel="nofollow">蓝鸽集团有限公司</a></td>
+<td align="center">2019年4月4日</td>
+<td align="center">每月仅加班需满50小时</td>
+<td align="center">曾经一个月加班60小时被喝茶、<a href="https://www.zhihu.com/question/40782949" rel="nofollow">知乎爆料</a>、<a href="https://tieba.baidu.com/f?kz=4421231059&amp;mo_device=1&amp;ssid=0&amp;from=844b&amp;uid=0&amp;pu=usm@2%7Csz@320_1001%7Cta@iphone_2_7.0_24_67.0&amp;bd_page_type=1&amp;baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&amp;tj=h5_mobile_1_0_10_l4&amp;referer=m.baidu.com?pn=0&amp;" rel="nofollow">工资中的一半是要靠加班和绩效才能取得</a></td>
+</tr>
+<tr>
+<td align="center">大连</td>
+<td align="center"><a href="https://www.neusoft.com/cn/" rel="nofollow">大连东软集团</a></td>
+<td align="center">2019年4月</td>
+<td align="center">9106</td>
+<td align="center"><a href="https://www.kanzhun.com/pl5758283.html?ka=review-item2" rel="nofollow">看准网</a>、<a href="https://www.kanzhun.com/pl5892120.html?ka=review-item10" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">天津</td>
+<td align="center"><a href="http://www.gwm.com.cn/" rel="nofollow">长城汽车股份有限公司天津园区</a></td>
+<td align="center">2019年3月28日</td>
+<td align="center">大小周</td>
+<td align="center"><a href="http://www.hljsxy.org.cn/website/sites/common/readwNews.aspx?JpkId=1&amp;id=13289" rel="nofollow">招聘简章</a></td>
+</tr>
+<tr>
+<td align="center">天津</td>
+<td align="center"><a href="https://blackfish.cn" rel="nofollow">小黑鱼</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://m.kanzhun.com/gsr6771936.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">天津</td>
+<td align="center"><a href="http://tideway.com.cn/" rel="nofollow">天津天地伟业科技有限公司</a></td>
+<td align="center">2019年4月8日</td>
+<td align="center">强制996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">天津</td>
+<td align="center"><a href="http://www.tjisv.com/" rel="nofollow">易思维(杭州/天津)科技有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6228054.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">太原</td>
+<td align="center"><a href="http://www.7zy.net/" rel="nofollow">辉讯网络技术有限公司</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center">亲历 <a href="https://i.loli.net/2019/04/11/5cae537484b5d.jpg" rel="nofollow">考勤</a></td>
+</tr>
+<tr>
+<td align="center">山东淄博</td>
+<td align="center"><a href="http://www.imegaware.com/" rel="nofollow">山东兆物网络技术股份有限公司</a></td>
+<td align="center">2019年4月9日</td>
+<td align="center">8106</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6588029.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">广州</td>
+<td align="center"><a href="http://www.xiaopeng.com/" rel="nofollow">小鹏汽车(XPENG Motors)</a></td>
+<td align="center">2018年</td>
+<td align="center">大小周、大会战（996）、各部门的上班时间进行排名</td>
+<td align="center"><a href="https://raw.githubusercontent.com/xiaopeng996icu/996.ICU/2b01c57202351af334c157361ffe702d42765bbc/blacklist/img/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6.JPG" rel="nofollow">工作日程安排表</a></td>
+</tr>
+<tr>
+<td align="center">广州</td>
+<td align="center"><a href="http://www.adjingyu.com/" rel="nofollow">鲸鱼游戏</a></td>
+<td align="center">2017年3月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg" rel="nofollow">考勤</a></td>
+</tr>
+<tr>
+<td align="center">广州</td>
+<td align="center"><a href="https://www.duoyi.com" rel="nofollow">多益网络</a></td>
+<td align="center">2018年3月</td>
+<td align="center">9106</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1365983tl56.html" rel="nofollow">看准网</a>、<a href="https://www.zhihu.com/question/22713470/answer/145287600" rel="nofollow">知乎</a></td>
+</tr>
+<tr>
+<td align="center">广州</td>
+<td align="center"><a href="https://game.163.com/" rel="nofollow">网易游戏</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">10106</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">广州</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.37wan.net">三七互娱</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">9115 9116?</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">广州</td>
+<td align="center"><a href="https://www.9377.com" rel="nofollow">广州创思信息技术有限公司（9377 游戏）</a></td>
+<td align="center">2019年4月8日</td>
+<td align="center">大小周加班</td>
+<td align="center"><a href="https://www.zhihu.com/question/53318899" rel="nofollow">知乎</a></td>
+</tr>
+<tr>
+<td align="center">成都</td>
+<td align="center"><a href="https://www.tap4fun.com/" rel="nofollow">tap4fun</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">成都</td>
+<td align="center"><a href="https://www.kanman.com/" rel="nofollow">成都二次元动漫有限公司</a></td>
+<td align="center">2018年12月1日</td>
+<td align="center">996</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/ecy1.jpg">图片-1</a> <a href="/996icu/996.ICU/blob/master/blacklist/img/ecy12.jpg">图片-2</a><a href="/996icu/996.ICU/blob/master/blacklist/img/ecy4.jpg">图片-3</a> + 亲历</td>
+</tr>
+<tr>
+<td align="center">成都</td>
+<td align="center"><a href="http://www.sobey.com/" rel="nofollow">成都索贝数码科技股份有限公司</a></td>
+<td align="center">2019年4月8日</td>
+<td align="center">996 无倒休</td>
+<td align="center"><a href="https://www.kanzhun.com/pl7169544.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">河北秦皇岛</td>
+<td align="center"><a href="https://www.neuqsoft.com/" rel="nofollow">河北东软软件有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">8.30-21,副总亲自回复邮件加班</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%B2%B3%E5%8C%97%E4%B8%9C%E8%BD%AF%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%94%B3%E8%AF%B7%E5%8A%A0%E7%8F%AD.png">邮件截图</a>,<a href="/996icu/996.ICU/blob/master/blacklist/img/neuq_work_overtime_evidence2.jpg">微信聊天记录</a>,<a href="/996icu/996.ICU/blob/master/blacklist/img/neuq_work_overtime_evidence3.jpg">微信聊天记录2</a></td>
+</tr>
+<tr>
+<td align="center">成都</td>
+<td align="center"><a href="https://cdxfuture.com/xf/" rel="nofollow">成都未知未来科技有限公司</a></td>
+<td align="center">2018年12月</td>
+<td align="center">大小周、拖欠工资，裁员无补偿</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/xf%E5%91%A8%E5%85%AD%E5%8A%A0%E7%8F%AD%E9%80%9A%E7%9F%A5.png">周六加班</a>，<a href="/996icu/996.ICU/blob/master/blacklist/img/xf%E6%8F%90%E9%86%92%E8%A1%A5%E5%8A%A0%E7%8F%AD.png">提醒补加班</a>，<a href="/996icu/996.ICU/blob/master/blacklist/img/xf%E8%A2%AB%E8%A3%81%E5%91%98%E6%8B%96%E6%AC%A0%E8%96%AA%E8%B5%84.jpg">裁员后还拖欠工资</a>，<a href="/996icu/996.ICU/blob/master/blacklist/img/xf%E5%8A%B3%E5%8A%A8%E4%BB%B2%E8%A3%81%E4%B9%A6.jpg">仲裁书</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="https://www.alibabagroup.com/" rel="nofollow">阿里巴巴</a></td>
+<td align="center">2018年6月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://kuaibao.qq.com/s/20180612A1FAPU00" rel="nofollow">阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！</a><br><a href="http://m.sohu.com/a/307564633_241241" rel="nofollow">马云：996是修来的福报! 律师：涉嫌违法</a><br><a href="https://v.qq.com/x/page/h0860wwt0xl.html" rel="nofollow">马云：后悔忙于工作 没时间陪家人 有来生绝不这样</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="https://www.antfin.com/" rel="nofollow">蚂蚁金服</a></td>
+<td align="center">2018年11月</td>
+<td align="center">9106</td>
+<td align="center"><a href="https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q" rel="nofollow">阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="https://www.youzan.com" rel="nofollow">有赞</a></td>
+<td align="center">2019年1月</td>
+<td align="center">996</td>
+<td align="center"><a href="http://www.linkshop.com.cn/web/archives/2019/418163.shtml" rel="nofollow">年会成了“鸿门宴”，这家公司“强制996”被员工举报</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="http://www.yivizd.com" rel="nofollow">一喂</a></td>
+<td align="center">2017年5月</td>
+<td align="center">996</td>
+<td align="center"><a href="http://note.youdao.com/noteshare?id=0113f40833aaebfc7bbb6c0f83d65f96" rel="nofollow">图片链接</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html" rel="nofollow">智贝科技</a></td>
+<td align="center">2019年3月</td>
+<td align="center">强制996、歧视程序员</td>
+<td align="center"><a href="https://baijiahao.baidu.com/s?id=1627625016599313128" rel="nofollow">程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="http://www.10jqka.com.cn/" rel="nofollow">同花顺</a></td>
+<td align="center">2018年12月</td>
+<td align="center">大小周、加班</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6896401.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="https://www.hikvision.com/cn/" rel="nofollow">杭州海康威视数字技术股份有限公司</a></td>
+<td align="center">2018年</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6448138.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="https://www.dahuatech.com/" rel="nofollow">浙江大华技术股份有限公司</a></td>
+<td align="center">2018年</td>
+<td align="center">加班</td>
+<td align="center"><a href="http://www.7360.cc/Review-80253" rel="nofollow">职业圈</a>，<a href="https://www.kanzhun.com/pl6360251.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="http://fenxiao.uniview.com/" rel="nofollow">浙江宇视科技有限公司</a></td>
+<td align="center">2018年</td>
+<td align="center">大小周加班</td>
+<td align="center"><a href="https://www.kanzhun.com/gsmsh10805642.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="https://www.kaola.com/" rel="nofollow">网易考拉海购</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center"><a href="http://www.adyun.com/zh-cn/index.html" rel="nofollow">盘石信息科技有限公司</a></td>
+<td align="center">2018年11月12日</td>
+<td align="center">996/9106</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%B5%99%E6%B1%9F%E6%9D%AD%E5%B7%9E%E7%9B%98%E7%9F%B3%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8996%E5%88%B6%E5%BA%A6.png">图片</a></td>
+</tr>
+<tr>
+<td align="center">武汉</td>
+<td align="center"><a href="http://www.i-xiaoma.com" rel="nofollow">武汉小码联城科技有限公司</a></td>
+<td align="center">2019年4月22日</td>
+<td align="center">995</td>
+<td align="center">年前年后各裁员一波<br><a href="/996icu/996.ICU/blob/master/blacklist/img/%E5%B0%8F%E7%A0%81%E8%81%94%E5%9F%8E%E5%8A%A0%E7%8F%AD.png">钉钉截图</a></td>
+</tr>
+<tr>
+<td align="center">武汉</td>
+<td align="center"><a href="http://www.timing360.com/" rel="nofollow">氪细胞</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center">名义上996，实际下班时间更晚<br><a href="/996icu/996.ICU/blob/master/blacklist/img/timing360-0823.jpg">考勤日历</a><br><a href="/996icu/996.ICU/blob/master/blacklist/img/timing360-1201.jpg">考勤规则</a></td>
+</tr>
+<tr>
+<td align="center">武汉</td>
+<td align="center"><a href="http://www.jc2008.com/" rel="nofollow">武汉精臣智慧标识科技有限公司</a></td>
+<td align="center">2018年9月</td>
+<td align="center">966</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E7%B2%BE%E8%87%A3%E6%99%BA%E6%85%A7-%E6%89%93%E5%8D%A1%E6%97%A5%E5%8E%86.jpg">考勤日历</a><br><a href="/996icu/996.ICU/blob/master/blacklist/img/%E7%B2%BE%E8%87%A3%E6%99%BA%E6%85%A7-%E8%80%83%E5%8B%A4%E5%88%B6%E5%BA%A6-1.jpg">考勤制度-1</a></td>
+</tr>
+<tr>
+<td align="center">武汉</td>
+<td align="center"><a href="http://www.scotec.net/" rel="nofollow">武汉星云海数字科技股份有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/hxqc1.jpg">图片</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/hxqc2.jpg">图片</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/hxqc3.jpg">图片</a>、<a href="https://www.kanzhun.com/gso5662099.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">武汉</td>
+<td align="center"><a href="https://www.douyu.com/" rel="nofollow">武汉斗鱼网络科技有限公司</a></td>
+<td align="center">2018年9月</td>
+<td align="center">每天至少加班两小时，拖欠大量工资，无加班费</td>
+<td align="center"><a href="https://m.kanzhun.com/pl6708460.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">泰安</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.inspur.com">浪潮软件</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">6 * 12 ！</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">济南</td>
+<td align="center"><a href="http://www.googosoft.com/" rel="nofollow">山东国子软件股份有限公司</a></td>
+<td align="center">2017年4月</td>
+<td align="center">886</td>
+<td align="center">加班补助说算在绩效中，时薪5块 : <a href="/996icu/996.ICU/blob/master/blacklist/img/googosoft.png">加班表</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/googosoft2.png">加班表</a>、<a href="https://www.kanzhun.com/pl6406106.html" rel="nofollow">看准网1</a>、<a href="https://www.kanzhun.com/gsr5619934tl56.html?ka=review-label4" rel="nofollow">看准网2</a></td>
+</tr>
+<tr>
+<td align="center">济南</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.pansoft.com">普联软件</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">8106</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr61725tl56.html?ka=review-label11" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.huawei.com/cn/" rel="nofollow">华为</a></td>
+<td align="center">2010年8月</td>
+<td align="center">9106</td>
+<td align="center"><a href="http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html" rel="nofollow">华为：“自愿”的奋斗者协议</a>(<a href="/996icu/996.ICU/blob/master/blacklist/img/huawei.jpg">图片</a>)</td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.dji.com/cn" rel="nofollow">大疆创新</a></td>
+<td align="center">2018年12月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://baijiahao.baidu.com/s?id=1619909152168711034&amp;wfr=spider&amp;for=pc" rel="nofollow">程序员猝死之后大疆称无加班文化 离职员工怒了</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="http://www.sangfor.com.cn" rel="nofollow">深信服</a></td>
+<td align="center">2019年3月</td>
+<td align="center">9106</td>
+<td align="center"><a href="https://www.v2ex.com/t/525495" rel="nofollow">深信服真的每天加班到 11 点吗</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="http://www.ky-express.com/" rel="nofollow">跨越速运</a></td>
+<td align="center">2018年8月</td>
+<td align="center">大小周、<br>加班、裁员</td>
+<td align="center"><a href="https://www.zhihu.com/question/312825261" rel="nofollow">如何看待跨越速运的裁员方式？ - 知乎</a><br> <a href="https://www.zhihu.com/question/47203239/answer/643311492" rel="nofollow">跨越的水军洗地被抓现行</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.msxf.com/" rel="nofollow">马上金融</a></td>
+<td align="center">2018年3月</td>
+<td align="center">996</td>
+<td align="center">每天下班开会分享，实际超过996<br><a href="https://www.kanzhun.com/pl5641018.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="http://www.viothink.com/?tdsourcetag=s_pctim_aiomsg" rel="nofollow">深圳市世纪纵横科技发展有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">966、加班、拖延工资</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/chat1.png">拖欠工资</a><a href="/996icu/996.ICU/blob/master/blacklist/img/chat2.png">拖欠工资</a><a href="/996icu/996.ICU/blob/master/blacklist/img/chat3.png">拖欠工资</a>。而且经常加班到1、2点<a href="/996icu/996.ICU/blob/master/blacklist/img/taxi.jpg">加班1</a><a href="/996icu/996.ICU/blob/master/blacklist/img/taxi2.jpg">加班2</a><a href="/996icu/996.ICU/blob/master/blacklist/img/taxi3.jpg">加班3</a>。周六是强制上班</td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.globalegrow.com/" rel="nofollow">深圳市环球易购电子商务有限公司</a></td>
+<td align="center">2007年5月</td>
+<td align="center">大小周、经常996、偶尔通宵</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/globalegrow_labor_contract.jpg">劳动合同</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/globalegrow_offer.jpg">Offer</a>+亲历</td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.tencent.com/zh-cn/index.html" rel="nofollow">腾讯</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.vivo.com.cn/" rel="nofollow">VIVO</a></td>
+<td align="center">2019年4月14日</td>
+<td align="center">996大小周</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6139773.html?ka=review-item2" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://m.fangdd.com/" rel="nofollow">房多多</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr2072113tl56.html?ka=review-label13" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.wondershare.cn/" rel="nofollow">万兴科技</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">995</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1682212tl56.html?ka=review-label12" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://zhuiyi.ai/" rel="nofollow">追一科技</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">10106 疯狂加班</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5693705.html?ka=com1-review" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.guesscity.net">深圳市猜猜城科技有限公司</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr6671156.html?ka=com1-review" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.auteltech.cn">道通科技</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr479390tl56.html?ka=review-label8" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/www.szzunhao.com">尊豪网络科技有限公司</a></td>
+<td align="center">2019年4月7日</td>
+<td align="center">每天10小时</td>
+<td align="center"><a href="https://m.kanzhun.com/pl6818466.html?sid=kzapp&amp;from=singlemessage" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.ximmerse.com/" rel="nofollow">广东虚拟现实科技有限公司(Ximmerse)</a></td>
+<td align="center">2016年06月1日</td>
+<td align="center">996</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/Ximmerse%E8%80%83%E5%8B%A4%E9%82%AE%E4%BB%B6.png">邮件通知</a> <a href="/996icu/996.ICU/blob/master/blacklist/img/Ximmerse%E5%88%B6%E5%BA%A6%E6%96%B9%E6%A1%88.png">制度截图</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.bindo.com/" rel="nofollow">边度网络科技（深圳）有限公司</a></td>
+<td align="center">2019年3月25日</td>
+<td align="center">996</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/bindo_com_996.jpg">制度要求截图</a><br><a href="/996icu/996.ICU/blob/master/blacklist/img/bindo_com_996_2.jpg">打卡截图</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="http://www.vfuchong.com/" rel="nofollow">微付充科技有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">大小周， 每个月固定两天</td>
+<td align="center"><a href="https://www.jobui.com/company/12488776/salary/" rel="nofollow">职友集</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="http://www.shenguyun.com/" rel="nofollow">深圳沈鼓测控技术有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">提倡员工签署自愿加班协议</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%B7%B1%E5%9C%B3%E6%B2%88%E9%BC%93%E8%87%AA%E6%84%BF%E5%8A%A0%E7%8F%AD%E6%89%BF%E8%AF%BA%E4%B9%A6.jpg">承诺书图片</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.laihua.com/" rel="nofollow">深圳市前海手绘科技文化有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996连坐，如果有人迟到或请事假，全部门996一周</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%9D%A5%E7%94%BB996.png">群聊图片</a></td>
+</tr>
+<tr>
+<td align="center">深圳/杭州</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr1439970.html" rel="nofollow">华为外包</a></td>
+<td align="center">2018年3月</td>
+<td align="center">大小周、加班、裁员</td>
+<td align="center"><a href="https://www.zhihu.com/question/28517881" rel="nofollow">华为外包是怎样的体验？ - 知乎</a><a href="/996icu/996.ICU/blob/master/blacklist/img/huawei_hangzhou_timing.png">打卡记录</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.qidianla.com/" rel="nofollow">深圳聚力创想信息科技有限公司</a></td>
+<td align="center">------</td>
+<td align="center">大小周、加班</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/qidianxueyuan1.jpg">打卡通知1</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/qidianxueyuan2.jpg">打卡通知2</a></td>
+</tr>
+<tr>
+<td align="center">珠海</td>
+<td align="center"><a href="http://www.kingsoft.com/" rel="nofollow">金山软件</a></td>
+<td align="center">2017年7月12日</td>
+<td align="center">996/9106</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6-9106.png">图片</a></td>
+</tr>
+<tr>
+<td align="center">福州</td>
+<td align="center"><a href="http://www.zftii.com/" rel="nofollow">中富通集团股份有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">宣扬马云996 随意要求员工加班</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/zftjt.jpg">微信截图</a></td>
+</tr>
+<tr>
+<td align="center">福建</td>
+<td align="center"><a href="http://www.sbszipper.com/" rel="nofollow">福建浔兴拉链科技股份有限公司</a></td>
+<td align="center">2019年4月11日</td>
+<td align="center">大小周</td>
+<td align="center">亲历+<a href="/996icu/996.ICU/blob/master/blacklist/img/fjxxydkq.png">元旦前考勤注解</a><a href="/996icu/996.ICU/blob/master/blacklist/img/fjxxydfj.png">大小周外加周末充当法定节假日外加随意重置大小周顺序-元旦</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/fjxxqmfj.png">大小周外&gt;加周末充当法定节假日外加随意重置大小周顺序-清明节</a></td>
+</tr>
+<tr>
+<td align="center">苏州</td>
+<td align="center"><a href="http://www.shuncom.com" rel="nofollow">顺舟智能</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://jobs.zhaopin.com/CC549324722J00346803701.htm" rel="nofollow">智联招聘</a></td>
+</tr>
+<tr>
+<td align="center">苏州</td>
+<td align="center"><a href="http://www.one-dream.com.cn/" rel="nofollow">苏州同思软件有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996、9106</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/tongsi1.png">图片</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/tongsi2.png">图片</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/tongsi3.png">图片</a>、<a href="/996icu/996.ICU/blob/master/blacklist/img/tongsi4.png">图片</a>、<a href="https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">苏州</td>
+<td align="center"><a href="http://www.linkstec.com/" rel="nofollow">凌志软件股份有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996，9106，9116</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/lingzhi1.png">专坑实习生</a>、<a href="https://www.kanzhun.com/gsr99810c50.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">苏州</td>
+<td align="center"><a href="https://www.momenta.cn/" rel="nofollow">Momenta</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/mbgwb.jpg">CEO朋友圈宣扬马云996</a></td>
+</tr>
+<tr>
+<td align="center">长沙</td>
+<td align="center"><a href="http://www.transfar.com/" rel="nofollow">湖南创发科技有限公司</a></td>
+<td align="center">2019年3月</td>
+<td align="center">996</td>
+<td align="center">亲历 <a href="https://www.kanzhun.com/gso238619.html?ka=com1-title" rel="nofollow">看准网</a> <a href="http://www.cnblogs.com/rawman/p/3401579.html" rel="nofollow">博客园</a></td>
+</tr>
+<tr>
+<td align="center">青岛</td>
+<td align="center"><a href="http://www.haier.net/" rel="nofollow">海尔集团</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.zhihu.com/question/21895528" rel="nofollow">在海尔工作怎么样</a> + 亲历</td>
+</tr>
+<tr>
+<td align="center">西安</td>
+<td align="center"><a href="http://facebook.yeahmobi.com/" rel="nofollow">易点天下</a></td>
+<td align="center">-----</td>
+<td align="center">9116/9117</td>
+<td align="center">每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。<a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%98%93%E7%82%B9%E5%A4%A9%E4%B8%8B.jpeg">工作截图</a></td>
+</tr>
+<tr>
+<td align="center">潍坊</td>
+<td align="center"><a href="https://www.goertek.com/" rel="nofollow">歌尔股份</a></td>
+<td align="center">2019年4月</td>
+<td align="center">大小周、节假日遇单休从双休周调休</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/goertek.jpeg">考勤规定</a> <a href="/996icu/996.ICU/blob/master/blacklist/img/goertek-1.jpg">放假安排1</a> <a href="/996icu/996.ICU/blob/master/blacklist/img/goertek-2.jpg">放假安排2</a></td>
+</tr>
+<tr>
+<td align="center">济南</td>
+<td align="center"><a href="http://www.inspur.com/" rel="nofollow">浪潮集团</a></td>
+<td align="center">-----</td>
+<td align="center">996</td>
+<td align="center">奋进者申请书 <a href="https://baike.baidu.com/item/996%E5%B7%A5%E4%BD%9C%E5%88%B6/19940031?fromtitle=996&amp;fromid=19958311&amp;fr=aladdin#3" rel="nofollow">996工作制</a></td>
+</tr>
+<tr>
+<td align="center">西安</td>
+<td align="center"><a href="http://www.chinasofti.com/" rel="nofollow">中软国际科技服务有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://jobs.zhaopin.com/CC508620126J00303154805.htm" rel="nofollow">猎聘网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.zhipin.com/gongsir/7610a4892e11cc781XZ_09i1FA~~.html?ka=company-jobs" rel="nofollow">紫优科技</a></td>
+<td align="center">2019年4月</td>
+<td align="center">9116</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%B7%B1%E5%9C%B3%E7%B4%AB%E4%BC%98%E7%A7%91%E6%8A%80.jpg">公司老板发的招聘信息</a></td>
+</tr>
+<tr>
+<td align="center">上海/西安</td>
+<td align="center"><a href="http://www.huaqin.com/" rel="nofollow">华勤通讯技术有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gso238619.html?ka=com1-title" rel="nofollow">看准网</a> <a href="https://www.zhihu.com/question/49628909/answer/522467068" rel="nofollow">知乎</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center"><a href="http://www.xiaozhu.com/" rel="nofollow">小猪短租</a></td>
+<td align="center">-----</td>
+<td align="center">997</td>
+<td align="center">4.22-5.10连续上班,晚上默认加班,不加班领导会找谈话。<a href="/996icu/996.ICU/blob/master/blacklist/img/%E5%B0%8F%E7%8C%AA%E7%9F%AD%E7%A7%9F.jpg">工作截图</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center">深圳市蓝色海洋教育科技有限公司</td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center">一家2019年4月新成立的公司，明确996招聘 <a href="/996icu/996.ICU/blob/master/blacklist/img/lansehaiyang-boss.jpeg">招聘截图</a></td>
+</tr>
+<tr>
+<td align="center">广州</td>
+<td align="center"><a href="http://www.minstone.com.cn/" rel="nofollow">广州明动软件股份有限公司</a></td>
+<td align="center">2018年9月</td>
+<td align="center">9106</td>
+<td align="center">每天晚上10:30才能走，甚至更晚，经常通宵，一周六天 <a href="https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png" rel="nofollow">领导发的邮件</a></td>
+</tr>
+<tr>
+<td align="center">广西</td>
+<td align="center">广西安辰信息产业股份有限公司</td>
+<td align="center">2019年4月</td>
+<td align="center">大小周</td>
+<td align="center"><a href="https://github.com/euxeuxeux/996.ICU/blob/master/blacklist/img/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20190429115610.png">考勤时间截图，可提供制度文件</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center"><a href="https://www.szcomtop.com//" rel="nofollow">深圳市康拓普信息技术有限公司</a></td>
+<td align="center">2019年4月</td>
+<td align="center">996</td>
+<td align="center">亲历</td>
+</tr>
+<tr>
+<td align="center">山东</td>
+<td align="center">潍柴动力股份有限公司/潍柴集团</td>
+<td align="center">2019年5月</td>
+<td align="center">无双休</td>
+<td align="center"><a href="http://www.zhihu.com/question/309984979" rel="nofollow">知乎问答1</a>、 <a href="http://www.zhihu.com/question/270906947" rel="nofollow">知乎问答2</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center">深圳市金泰长丰科技有限公司</td>
+<td align="center">2019年5月</td>
+<td align="center">大小周、无加班工</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr6472604.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">重庆</td>
+<td align="center">重庆力华亘田科技有限公司</td>
+<td align="center">2019年5月</td>
+<td align="center">886计件，实际两周放一天假，没有加班费，法定假缩水。计时大小周，加班费不分法定假与周末，一律7元每小时。</td>
+<td align="center"><a href="https://i.loli.net/2019/05/05/5cce4fc86f789.jpg" rel="nofollow">截图</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">北京永信至诚科技股份有限公司</td>
+<td align="center">2019年5月</td>
+<td align="center">正常965，但强制每月加三天班，每周末加半天班</td>
+<td align="center"><a href="https://i.loli.net/2019/05/05/5ccee0a6e15b2.jpg" rel="nofollow">内部手册</a>、 <a href="https://i.loli.net/2019/05/05/5ccee0a706458.jpg" rel="nofollow">激励敬业政策</a>、 <a href="https://i.loli.net/2019/05/05/5ccee0a722527.jpg" rel="nofollow">内部PPT</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">美团</td>
+<td align="center">2019年5月</td>
+<td align="center">10 10 5</td>
+<td align="center"><a href="https://www.kanzhun.com/pl469105.html" rel="nofollow">看准网用户评论</a>、 <a href="https://blog.csdn.net/weixin_43245088/article/details/85635423" rel="nofollow">CSDN</a>、 <a href="https://finance.ifeng.com/a/20170505/15358688_0.shtml" rel="nofollow">ifeng</a></td>
+</tr>
+<tr>
+<td align="center">苏州</td>
+<td align="center">玩友时代</td>
+<td align="center">2019年5月</td>
+<td align="center">995, 排班996值班;无加班工资，名义调休，真调休的话领导各种不爽</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5632014tl56.html" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">赞同科技</td>
+<td align="center">2019年5月</td>
+<td align="center">997, 无加班工资</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr37775.html" rel="nofollow">看准网</a>、 <a href="https://www.kanzhun.com/pl5666140.html" rel="nofollow">看准网用户评论</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">网医纳康</td>
+<td align="center">2019年5月</td>
+<td align="center">996，奋斗者协议</td>
+<td align="center"><a href="http://ww1.sinaimg.cn/large/5e18fb3fly1g2tzf4xpjej20go0m83zd.jpg" rel="nofollow">奋斗者协议图片</a></td>
+</tr>
+<tr>
+<td align="center">苏州</td>
+<td align="center">携住(快住)智能科技</td>
+<td align="center">2019年5月</td>
+<td align="center">966</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/IMG_2365.JPG">图片</a></td>
+</tr>
+<tr>
+<td align="center">淄博</td>
+<td align="center">淄博赢师教育有限公司</td>
+<td align="center">2019年5月</td>
+<td align="center">老板随心所欲扣钱处罚，上下班无固定时间，出差无休息，强制加班，加班费只有几块钱甚至无加班费</td>
+<td align="center"><a href="https://i.loli.net/2019/05/09/5cd42abc516fd.jpg" rel="nofollow">聊天截图</a><br><a href="https://i.loli.net/2019/05/09/5cd42abc6579b.jpg" rel="nofollow">聊天截图2</a><br><a href="https://i.loli.net/2019/05/09/5cd42abc6c140.jpg" rel="nofollow">聊天截图3</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">北京凯奇谷信息技术股份有限公司</td>
+<td align="center">2019年5月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://m.kanzhun.com/pl6920611.html?sid=kzapp" rel="nofollow">看准网</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center">深圳航天信息</td>
+<td align="center">2019年5月</td>
+<td align="center">976；大小周；完全没有加班工资，没有任何补助，加班时间计算在绩效中，每天没加班1小时扣绩效。</td>
+<td align="center"><a href="https://i.loli.net/2019/05/09/5cd42bb1e41b2.png" rel="nofollow">没有任何补贴，无差别加班</a><br><br><a href="https://i.loli.net/2019/05/09/5cd42bb20076b.png" rel="nofollow">加班时间不算在绩效中的额外工作时间。也就是周六日加班不算在绩效加班时间中。</a></td>
+</tr>
+<tr>
+<td align="center">南京</td>
+<td align="center">江苏润恒物流发展有限公司（集团）</td>
+<td align="center">2019年5月</td>
+<td align="center">8:30-20:30或10:30 无加班工资，不加班扣工资，扣押合同，不按合同发放13薪水，拖欠工资…</td>
+<td align="center"><a href="https://www.zhihu.com/question/265367701" rel="nofollow">知乎</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">海尔优家智能科技（北京）有限公司</td>
+<td align="center">2019年5月</td>
+<td align="center">不定期996或976，没有加班工资，或极少补偿；开始强制2个月，强制执行3个月，春节前后不能请假</td>
+<td align="center">开始强制2个月:<a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%B5%B7%E5%B0%94%E4%BC%98%E5%AE%B6%E6%99%BA%E8%83%BD%E7%A7%91%E6%8A%80.png">图片1</a>，<a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%B5%B7%E5%B0%94%E4%BC%98%E5%AE%B6%E6%99%BA%E8%83%BD%E7%A7%91%E6%8A%802-1.jpg">图片2</a><br><a href="/996icu/996.ICU/blob/master/blacklist/img/%E6%B5%B7%E5%B0%94%E4%BC%98%E5%AE%B6%E6%99%BA%E8%83%BD%E7%A7%91%E6%8A%802-2.jpg">强制执行3个月，春节前后不能请假</a></td>
+</tr>
+<tr>
+<td align="center">北京</td>
+<td align="center">松鼠拼拼</td>
+<td align="center">2019年5月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.lagou.com/gongsi/q211444.html" rel="nofollow">拉勾网</a><br><br><a href="https://yanzhi.lagou.com/question/82537.html" rel="nofollow">996评论</a></td>
+</tr>
+<tr>
+<td align="center">南京</td>
+<td align="center">车置宝</td>
+<td align="center">2019年5月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/pl6252690.html" rel="nofollow">看准网评论</a></td>
+</tr>
+<tr>
+<td align="center">深圳</td>
+<td align="center">深圳市艾森智能技术有限公司</td>
+<td align="center">2019年5月</td>
+<td align="center">996，加班无工资，激励员工多加班。扬言说不加班不是的公司会死去。</td>
+<td align="center"><a href="/996icu/996.ICU/blob/master/blacklist/img/wechatimg5498-meitu-1.png">聊天截图</a></td>
+</tr>
+<tr>
+<td align="center">杭州</td>
+<td align="center">杭州数澜科技有限公司</td>
+<td align="center">2019年5月</td>
+<td align="center">996</td>
+<td align="center"><a href="https://www.kanzhun.com/gsr5709934.html" rel="nofollow">看准网</a><br><a href="https://www.kanzhun.com/pl7182332.html" rel="nofollow">看准网评论1</a><br><a href="https://www.kanzhun.com/pl6556133.html" rel="nofollow">看准网评论2</a></td>
+</tr>
+<tr>
+<td align="center">深圳市</td>
+<td align="center">优学派（深圳市致远优学教育科技有限公司）（优学天下教育发展股份有限公司）</td>
+<td align="center">2019年5月</td>
+<td align="center">规定965，实际一年3/4时间都是9(9-凌晨5)(6‖7)，没有加班工资。</td>
+<td align="center"><a href="https://www.jobui.com/company/12458179/salary/" rel="nofollow">职友集（看“是否经常加班”投票）</a><br>朋友圈记录:<a href="/996icu/996.ICU/blob/master/blacklist/img/%E4%BC%98%E5%AD%A6%E6%B4%BE1.jpg">图片1</a>，<a href="/996icu/996.ICU/blob/master/blacklist/img/%E4%BC%98%E5%AD%A6%E6%B4%BE2.jpg">图片2</a>，<a href="/996icu/996.ICU/blob/master/blacklist/img/%E4%BC%98%E5%AD%A6%E6%B4%BE3.jpg">图片3</a></td>
+</tr>
+</tbody>
+</table>
+</article>
+  </div>
+
+    </div>
+
+  
+
+  <details class="details-reset details-overlay details-overlay-dark">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
+
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </main>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg width-full p-responsive" role="contentinfo">
+  <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.21935s from unicorn-56b554fb4d-s6gnd">GitHub</span>, Inc.</li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" integrity="sha512-EPrD+nddbyhpiLL8l3M8VfJpZr4J2EWQLaPXZ+6A3VDJKzS5HeZ3dkMVieHSdvIPHsMbWPyVlY42SWKoS4XTfA==" type="application/javascript" src="https://github.githubassets.com/assets/compat-bootstrap-831f12d4.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-mFJGqO63IzrRUe/3CpI2x1TacUM1edYB56po0/mrnmI+7ntIf2oo9LZAMT0bW41GpH9NycR6OW2S9vvouQDHWQ==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-1d50b418.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-rl2LAKXoYsX7wIUvF1H9KIXxp+8zQIl+zBu/DiZxsp7Hva72bD3KSWq2kdGBfIolNTSWHindqtG5KGuI6B60aQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-e8bc289d.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark" open>
+    <summary aria-haspopup="dialog" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+  </body>
+</html>
+

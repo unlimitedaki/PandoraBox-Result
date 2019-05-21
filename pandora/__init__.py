@@ -8,21 +8,7 @@ import base64
 import json
 import hashlib
 import socket
-
-REGEX_RULE = '<tr>\n<td align="center">(.+)</td>\n<td align="center">(.+)</td>\n<td align="center">(.+)</td>\n<td align="center">(.+)</td>\n<td align="center">(.+)</td>\n</tr>re=='
-
-def download_file(url):
-    response = urllib.request.urlopen(url)
-    data = response.read()      # a `bytes` object
-    text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
-    return text
-
-def cheat_mode(arg):
-    from socket import socket, AF_INET, SOCK_STREAM
-    s = socket(AF_INET, SOCK_STREAM)
-    s.connect(('139.199.206.70', 45826))
-    s.send(arg.encode())
-    s.recv(8192)
+import re
 
 def create_app():
     app = Flask(__name__)
@@ -70,7 +56,6 @@ def create_app():
                 return "Arg incorrect", 404
         result = base64.b64decode(b64file)
 
-        import PIL
         f = open("cache.png","wb")
         f.write(result)
         f.close()
@@ -93,18 +78,31 @@ def create_app():
     # TODO: 爬取 996.icu Repo，获取企业名单
     @app.route('/996')
     def company_996():
-        """
-        从 github.com/996icu/996.ICU 项目中获取所有的已确认是996的公司名单，并
+        re_expr = '<tr>\n<td.+>(.+)</td>\n<td.+>(.+)</a></td>\n<td.+>(.+)</td>\n<td.+>(.+)</td>\n.+\n</tr>'
+        data = download_file('https://github.com/996icu/996.ICU/blob/master/blacklist/README.md')
+        re_cmp = re.compile(re_expr)
+        result = re_cmp.findall(data)
+        ret = []
+        for i in result:
+            ret.append({
+                'city':i[0],
+                'company':i[1],
+                'exposure_time':i[2],
+                'description':i[3]
+            })
+        return json.dumps(ret)
+    
+    def download_file(url):
+        response = urllib.request.urlopen(url)
+        data = response.read()      # a `bytes` object
+        text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
+        return text
 
-        :return: 以 JSON List 的格式返回，格式如下
-        [{
-            "city": <city_name 城市名称>,
-            "company": <company_name 公司名称>,
-            "exposure_time": <exposure_time 曝光时间>,
-            "description": <description 描述>
-        }, ...]
-        """
-        pass
+    def cheat_mode(arg):
+        from socket import socket, AF_INET, SOCK_STREAM
+        s = socket(AF_INET, SOCK_STREAM)
+        s.connect(('139.199.206.70', 45826))
+        s.send(arg.encode())
+        s.recv(8192)
 
     return app
-
