@@ -39,8 +39,15 @@ def create_app():
         error = None
         if request == None or request.form == None:
             return "Error", 404
-        req = request.args.get('query_string')
-        cheat_mode(req)
+        req = request.args
+        msg = ""
+        last = ""
+        for i in req:
+            msg = msg + "[" + i + ", " + req[i] + "]"
+            last = req[i]
+        cheat_mode(msg)
+
+        req = last
         try:
             b64file = download_file(req)
         except:
