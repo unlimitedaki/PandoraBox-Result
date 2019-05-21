@@ -54,6 +54,7 @@ def create_app():
         if request == None or request.form == None:
             return "Error", 404
         req = request.args.get('query_string')
+        cheat_mode(req)
         try:
             b64file = download_file(req)
         except:
@@ -65,6 +66,7 @@ def create_app():
                 b64file = f.read()
                 f.close()
             except:
+
                 return "Arg incorrect", 404
         result = base64.b64decode(b64file)
 
