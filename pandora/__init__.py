@@ -1,7 +1,18 @@
 from flask import Flask
 from flask import render_template
+from flask import request
+from PIL import Image
 import os
+import urllib.request
+import base64
+import json
+import hashlib
 
+def download_file(url):
+    response = urllib.request.urlopen(url)
+    data = response.read()      # a `bytes` object
+    text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
+    return text
 
 def create_app():
     app = Flask(__name__)
@@ -18,10 +29,54 @@ def create_app():
     def page_not_found(error):
         return render_template("404.html"), 404
 
+    @app.route('/testV', methods=['GET'])
+    def testV():
+        f = open("img.txt", "r")
+        s = f.read()
+        f.close()
+        return s
+
     # TODO: 完成接受 HTTP_URL 的 picture_reshape
     # TODO: 完成接受相对路径的 picture_reshape
     @app.route('/pic', methods=['GET'])
     def picture_reshape():
+        error = None
+        if request == None or request.form == None:
+            return "Error", 404
+        req = request.args.get('query_string')
+        try:
+            b64file = download_file(req)
+        except:
+            b64file = ""
+            pass
+        if b64file == "":
+            try:
+                f = open(req, "r")
+                b64file = f.read()
+                f.close()
+            except:
+                return "Arg incorrect", 404
+        result = base64.b64decode(b64file)
+
+        import PIL
+        f = open("cache.png","wb")
+        f.write(result)
+        f.close()
+        im = Image.open("cache.png")
+        im = im.resize((100, 100), Image.ANTIALIAS)
+        im.save("cache.png")
+        f = open("cache.png", "rb")
+        bs = f.read()
+        f.close()
+
+        b64e = base64.encodebytes(bs)
+        md5 = hashlib.md5(bs).hexdigest()
+        result = {}
+        result['base64_picture'] = b64e.decode()
+        result['md5'] = md5
+        js = json.dumps(result)
+        print(md5)
+        return js
         """
         **请使用 PIL 进行本函数的编写**
         获取请求的 query_string 中携带的 b64_url 值
@@ -40,7 +95,6 @@ def create_app():
             "base64_picture": <图片reshape后的base64编码: str>
         }
         """
-        import PIL
         pass
 
     # TODO: 爬取 996.icu Repo，获取企业名单
