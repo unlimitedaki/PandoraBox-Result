@@ -51,7 +51,7 @@ def create_app():
             
         if b64file == "":
             try:
-                f = open(req, "r")
+                f = open("./pandora/"+req, "r")
                 b64file = f.read()
                 f.close()
             except:
