@@ -98,7 +98,9 @@ def create_app():
                 'exposure_time':i[2],
                 'description':i[3]
             })
-        return str(ret)#json.dumps(ret, ensure_ascii=False)
+        from flask import jsonify
+        app.config['JSON_AS_ASCII'] = False
+        return jsonify(ret)
     
     def download_file(url):
         response = urllib.request.urlopen(url)
