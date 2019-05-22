@@ -51,7 +51,9 @@ def create_app():
             
         if b64file == "":
             try:
-                f = open("./pandora/"+req, "r")
+                SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+                img_path = os.path.join(SITE_ROOT, 'img.txt')
+                f = open(img_path, "r")
                 b64file = f.read()
                 f.close()
             except:
