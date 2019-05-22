@@ -69,8 +69,8 @@ def create_app():
         result = {}
         result['md5'] = md5
         result['base64_picture'] = b64e.decode('utf-8').replace('\n', '')
-        js = json.dumps(result)
-        return js
+        from flask import jsonify
+        return jsonify(result)
 
     # TODO: 爬取 996.icu Repo，获取企业名单
     @app.route('/996')
